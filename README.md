@@ -14,6 +14,6 @@ https://github.com/FastLED/FastLED
 
 I am using this color palette for the WS2812 LEDs: http://seaviewsensing.com/pub/cpt-city/bhw/bhw3/tn/bhw3_51.png.index.html
 
-You will need PaletteKnife tool to get the color gradient for Arduino code: https://fastled.io/tools/paletteknife/
+If you want to use any other color palette then you will need PaletteKnife tool to get the color gradient for Arduino code: https://fastled.io/tools/paletteknife/
 
 I have added the schematic in the folder for Arduino and LEDs connections.
